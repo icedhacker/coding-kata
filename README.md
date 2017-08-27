@@ -1,2 +1,2 @@
-# xtreme-programming
-Random Programming Questions - Coding Katas
+# Coding Katas
+Random Programming Challenges - Coding Katas
